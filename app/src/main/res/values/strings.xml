@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ASM</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="facebook_app_id">251442517539255</string>
+    <string name="facebook_client_token">1f131c8f18ffd6fccc27db18d90eea79</string>
+
+    <string name="default_web_client_id">693424050914-8k7tto53ka439l9knqtn1s82imgoemug.apps.googleusercontent.com</string>
+</resources>
